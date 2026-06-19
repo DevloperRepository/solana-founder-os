@@ -159,3 +159,51 @@ But distribution, introductions, recruiting help, ecosystem access, and strategi
 
 Choose investors carefully.
 
+# Solana Fundraising Considerations
+
+## Before Raising
+
+Ask:
+
+* Have we validated demand?
+* Have we identified a repeatable acquisition channel?
+* Have we demonstrated retention?
+
+---
+
+## Ecosystem Capital
+
+Potential sources include:
+
+* Solana ecosystem funds
+* Accelerator programs
+* Angel investors
+* Strategic ecosystem participants
+
+---
+
+## What Investors Often Look For
+
+Beyond product quality:
+
+* Founder-market fit
+* User retention
+* Distribution advantages
+* Ecosystem positioning
+* Long-term vision
+
+---
+
+## Fundraising Reality
+
+Many founders believe fundraising solves growth problems.
+
+In practice:
+
+Capital amplifies existing strengths and weaknesses.
+
+Strong startups become stronger.
+
+Weak startups burn cash faster.
+
+
