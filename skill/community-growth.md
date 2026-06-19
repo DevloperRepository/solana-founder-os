@@ -103,3 +103,41 @@ Avoid rewarding spam activity.
 ☐ Retention tracking
 
 A community is built through participation, not announcements.
+
+# Field Notes
+
+## Community Is Not A Telegram Group
+
+A chat with 50,000 people is not necessarily a community.
+
+A community exists when members create value for each other.
+
+---
+
+## Contributors Are More Valuable Than Spectators
+
+A small group of highly engaged contributors often creates more value than a large passive audience.
+
+---
+
+## Moderation Is Not Community Building
+
+Community building involves:
+
+* Recognition
+* Participation
+* Shared goals
+
+Moderation is only one small part.
+
+---
+
+## The Best Communities Create Identity
+
+People stay because they feel connected to:
+
+* A mission
+* A culture
+* A group
+
+Identity drives retention.
