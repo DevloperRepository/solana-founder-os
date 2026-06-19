@@ -2,13 +2,11 @@
 
 echo "Installing Solana Founder OS..."
 
-SKILL_DIR="$HOME/.claude/skills/solana-founder-os"
+mkdir -p ~/.claude/skills/solana-founder-os
 
-mkdir -p "$SKILL_DIR"
+cp -r skill ~/.claude/skills/solana-founder-os/
+cp -r agents ~/.claude/skills/solana-founder-os/
+cp -r commands ~/.claude/skills/solana-founder-os/
+cp -r examples ~/.claude/skills/solana-founder-os/
 
-echo "Creating skill directory..."
 echo "Installation complete."
-
-echo ""
-echo "Solana Founder OS installed successfully."
-echo "Location: $SKILL_DIR"
