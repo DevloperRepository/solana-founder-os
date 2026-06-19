@@ -246,33 +246,76 @@ High-level operating system for founders.
 
 ### Idea Validation
 
-"Validate my idea for a Solana consumer application."
+* Validate my idea for a Solana consumer application.
+* Review my startup idea and identify weaknesses.
+* Is this problem worth solving?
+* Analyze the market opportunity for this startup.
+* Does Solana provide a meaningful advantage here?
 
 ### Product Strategy
 
-"Help me prioritize features for my MVP."
+* Help me prioritize features for my MVP.
+* Design an MVP for this startup idea.
+* What should I build first?
+* Review my product roadmap.
+* Identify unnecessary features in my MVP.
 
 ### Fundraising
 
-"Review my fundraising strategy and identify weaknesses."
+* Evaluate my fundraising readiness.
+* Review my fundraising strategy and identify weaknesses.
+* How much capital should I raise?
+* Help me improve my investor narrative.
+* Analyze whether my startup is ready to raise.
 
 ### Go-To-Market
 
-"Create a launch plan for my Solana DeFi protocol."
+* Create a Solana GTM strategy.
+* Design a launch plan for my startup.
+* Which distribution channels should I prioritize?
+* How should I acquire my first 1,000 users?
+* Build a launch strategy for my Solana product.
 
 ### Community Growth
 
-"Design an ambassador program for my startup."
+* Design an ambassador program for my startup.
+* Create a community growth strategy.
+* How can I improve community retention?
+* Build a contributor program.
+* Diagnose why community engagement is declining.
+
+### Partnerships
+
+* Identify partnership opportunities for my startup.
+* Build a partnership strategy.
+* Which ecosystem projects should I integrate with?
+* Create a co-marketing plan.
 
 ### Token Strategy
 
-"Does my project actually need a token?"
+* Does my project actually need a token?
+* Should my startup launch a token?
+* Review my token utility design.
+* Audit my token launch plan.
+* Analyze whether my incentive model is sustainable.
 
 ### Growth Analytics
 
-"Diagnose why user growth has stalled."
+* Diagnose why user growth has stalled.
+* Identify bottlenecks in my growth funnel.
+* What metrics should I track?
+* Review my startup's KPI framework.
+* Analyze retention issues.
 
----
+### Founder Playbooks
+
+* What stage is my startup currently in?
+* What should I focus on next?
+* Identify the biggest risk facing my startup.
+* Create a founder roadmap for the next 90 days.
+* Help me prioritize strategic decisions.
+
+--
 
 ## Design Principles
 
