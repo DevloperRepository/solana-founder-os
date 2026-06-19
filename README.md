@@ -279,6 +279,8 @@ Founder OS includes:
 - Installation scripts
 - Founder-focused commands
 
+The repository is organized into modular components that allow founders to load only the context they need, keeping interactions efficient while covering the full startup lifecycle.
+
 ---
 
 ## Example Prompts
