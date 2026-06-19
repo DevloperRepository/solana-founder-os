@@ -120,9 +120,9 @@ High-level operating system for founders.
 
 ### Validation
 
-#### idea-validation.md
-
 ![Idea Validation](assets/idea-validation.png)
+
+#### idea-validation.md
 
 * Idea evaluation
 * Validation frameworks
