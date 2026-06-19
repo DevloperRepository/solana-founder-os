@@ -315,7 +315,7 @@ High-level operating system for founders.
 * Create a founder roadmap for the next 90 days.
 * Help me prioritize strategic decisions.
 
---
+---
 
 ## Design Principles
 
