@@ -170,3 +170,55 @@ Many launches succeed for one week.
 
 Few succeed for one year.
 
+
+# Solana-Specific GTM Opportunities
+
+## Colosseum
+
+Leverage:
+
+* Hackathons
+* Founder communities
+* Investor visibility
+* Early adopters
+
+---
+
+## Ecosystem Integrations
+
+Growth often comes through integration.
+
+Evaluate:
+
+* Jupiter
+* Kamino
+* Drift
+* Backpack
+* Tensor
+* Metaplex
+
+---
+
+## Ecosystem Partnerships
+
+Questions:
+
+* Which ecosystem projects serve similar users?
+* Which integrations create mutual value?
+* Which communities overlap?
+
+Partnerships often outperform paid acquisition.
+
+---
+
+## Solana Community Channels
+
+Examples:
+
+* Solana communities
+* Founder groups
+* Hackathons
+* Ecosystem events
+* Developer communities
+
+The fastest distribution often comes through trusted ecosystem relationships.
