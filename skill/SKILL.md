@@ -1,8 +1,24 @@
 name	solana-founder-os
-description	AI operating system for building, launching, and scaling startups in the Solana ecosystem. Provides founder workflows, startup playbooks, product strategy, fundraising guidance, launch planning, growth systems, token strategy, and operational scaling frameworks.
+description	Founder copilot for the Solana ecosystem. Guides startups from idea validation and MVP design to fundraising, go-to-market execution, token strategy, community growth, partnerships, and operational scaling through stage-specific playbooks, frameworks, and execution systems.
 user-invocable	true
 
 # Solana Founder OS
+
+> The operating system for building, launching, and scaling startups on Solana.
+
+Most startup failures are not caused by bad code.
+
+They are caused by poor validation, weak distribution, unclear positioning, ineffective fundraising, unsustainable token models, or operational mistakes.
+
+Solana Founder OS helps founders navigate the complete startup journey:
+
+Idea → Validation → MVP → Fundraising → Launch → Growth → Token → Scale
+
+Unlike development-focused skills, Founder OS focuses on the strategic and operational decisions that determine whether a startup succeeds.
+
+The skill provides founder playbooks, decision frameworks, execution systems, and startup operating procedures built specifically for the Solana ecosystem.
+
+---
 
 ## What This Skill Is For
 
@@ -22,7 +38,7 @@ Use this skill when the user asks for:
 * MVP design
 * Feature prioritization
 * Product strategy
-* Roadmapping
+* Product roadmaps
 * Monetization design
 
 ### Fundraising
@@ -38,8 +54,8 @@ Use this skill when the user asks for:
 * Beta launches
 * Mainnet launches
 * Product launches
-* Growth planning
-* Distribution strategy
+* Go-to-market execution
+* Distribution planning
 
 ### Community & Growth
 
@@ -53,15 +69,15 @@ Use this skill when the user asks for:
 
 * Ecosystem partnerships
 * Integration opportunities
-* Co-marketing campaigns
 * Strategic alliances
+* Co-marketing campaigns
 
 ### Token Strategy
 
 * Token necessity analysis
 * Incentive design
+* Token utility
 * TGE planning
-* Token launch frameworks
 * Airdrop strategy
 
 ### Scaling
@@ -85,6 +101,7 @@ Validate whether the problem is worth solving.
 
 Primary Files:
 
+* founder-playbooks.md
 * idea-validation.md
 * market-research.md
 * customer-discovery.md
@@ -130,7 +147,7 @@ Primary Files:
 
 Success Criteria:
 
-* Fundraising narrative
+* Strong narrative
 * Investor pipeline
 * Capital allocation plan
 
@@ -216,25 +233,29 @@ Success Criteria:
 
 ## Default Founder Principles
 
-### 1. Validation Before Building
+### Validation Before Building
 
 Do not build before validating demand.
 
-### 2. Distribution Before Expansion
+### Distribution Before Expansion
 
 Acquire and retain users before adding complexity.
 
-### 3. Retention Before Acquisition
+### Retention Before Acquisition
 
 Retention is the foundation of sustainable growth.
 
-### 4. Utility Before Token
+### Utility Before Token
 
 Do not launch a token without a clear purpose.
 
-### 5. Systems Before Scale
+### Systems Before Scale
 
 Operational systems must precede growth.
+
+### Sustainable Growth Over Vanity Metrics
+
+Optimize for long-term value creation.
 
 ---
 
@@ -254,7 +275,7 @@ Classify the startup into:
 
 ### 2. Route To Appropriate Module
 
-Load only the modules relevant to the current stage.
+Load only the modules relevant to the startup's current stage.
 
 ### 3. Diagnose Constraints
 
@@ -270,6 +291,7 @@ Identify:
 Always provide:
 
 * Situation analysis
+* Strategic recommendations
 * Action plan
 * Risks
 * KPIs
@@ -309,7 +331,7 @@ product-strategy.md
 
 mvp-design.md
 
-### Fundraising
+### Capital
 
 fundraising.md
 
@@ -346,3 +368,9 @@ operations.md
 ### References
 
 resources.md
+
+---
+
+## Goal
+
+Help founders make better decisions at every stage of building, launching, and scaling startups in the Solana ecosystem.
