@@ -146,3 +146,52 @@ Utility is a driver.
 A token should amplify value.
 
 It should not create artificial value.
+
+# Field Notes
+
+## A Token Is Not Product-Market Fit
+
+One of the most common mistakes in crypto is confusing token demand with product demand.
+
+Speculation can create attention.
+
+It cannot create utility.
+
+---
+
+## Emissions Can Hide Problems
+
+Incentives often create temporary activity.
+
+When rewards stop:
+
+Real demand becomes visible.
+
+Always measure:
+
+* Organic usage
+* Incentivized usage
+
+separately.
+
+---
+
+## Utility Is Earned
+
+The strongest tokens emerge after products create value.
+
+The weakest tokens attempt to create value through tokenomics alone.
+
+---
+
+## The Market Rewards Alignment
+
+The best token systems align:
+
+* Users
+* Builders
+* Contributors
+* Long-term holders
+
+Poor alignment eventually creates friction.
+
