@@ -383,6 +383,16 @@ Founder OS follows five principles:
 
 ---
 
+## Installation
+
+Clone the repository and copy the skill into your preferred AI skill directory.
+
+The primary entry point is:
+
+skill/SKILL.md
+
+---
+
 ## License
 
 MIT
