@@ -1,3 +1,5 @@
+![Solana Founder OS](assets/banner.png)
+
 # Solana Founder OS
 
 > AI operating system for building, launching, and scaling startups in the Solana ecosystem.
