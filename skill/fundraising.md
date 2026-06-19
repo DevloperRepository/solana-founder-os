@@ -125,3 +125,37 @@ Choose metrics relevant to your business model.
 Remember:
 
 The best fundraising process often begins months before the first meeting.
+
+# Field Notes
+
+## Investors Rarely Fund Features
+
+Investors fund narratives.
+
+The strongest narratives combine:
+
+* Large opportunity
+* Strong team
+* Clear execution
+* Market timing
+
+---
+
+## Fundraising Is Momentum
+
+The easiest money to raise is often raised when you need it the least.
+
+Strong traction creates leverage.
+
+Weak traction creates dependence.
+
+---
+
+## Good Investors Compound
+
+Capital matters.
+
+But distribution, introductions, recruiting help, ecosystem access, and strategic guidance often matter more.
+
+Choose investors carefully.
+
