@@ -78,6 +78,8 @@ Founder OS helps answer those questions through practical founder-focused workfl
 
 ## Startup Lifecycle Coverage
 
+![Founder Lifecycle](assets/founder-lifecycle.png)
+
 Founder OS guides teams through every stage of the startup journey.
 
 ```text
@@ -119,6 +121,8 @@ High-level operating system for founders.
 ### Validation
 
 #### idea-validation.md
+
+![Idea Validation](assets/idea-validation.png)
 
 * Idea evaluation
 * Validation frameworks
@@ -221,6 +225,8 @@ High-level operating system for founders.
 
 #### token-strategy.md
 
+![Token Strategy](assets/token-strategy.png)
+
 * Token necessity analysis
 * Utility design
 * Incentive alignment
@@ -260,7 +266,23 @@ High-level operating system for founders.
 
 ---
 
+## Repository Structure
+
+![Repository Structure](assets/repository-structure.png)
+
+Founder OS includes:
+
+- Startup playbooks
+- Specialized AI agents
+- Founder workflows
+- Real-world startup examples
+- Installation scripts
+- Founder-focused commands
+
+---
+
 ## Example Prompts
+
 
 ### Idea Validation
 
