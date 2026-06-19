@@ -19,6 +19,26 @@ Founder OS provides structured playbooks, decision frameworks, and execution wor
 
 ---
 
+## Why Founder OS?
+
+Most Solana AI skills focus on writing code.
+
+Most startup failures are not caused by code.
+
+They are caused by:
+
+* Building products nobody wants
+* Poor distribution
+* Weak positioning
+* Premature token launches
+* Lack of user retention
+* Operational mistakes
+
+Founder OS was built to help founders make better decisions throughout the entire startup lifecycle.
+
+From idea validation and MVP design to fundraising, launch strategy, token planning, and scaling, Founder OS provides practical frameworks and execution playbooks designed specifically for Solana startups.
+
+
 ## Why This Skill Exists
 
 Building a product is only one part of building a successful startup.
