@@ -252,3 +252,51 @@ Before building:
 ☐ Established success metrics
 
 Only move to MVP Design after completing this checklist.
+
+# Field Notes
+
+## Distribution Is Not Demand
+
+Many crypto products mistake incentive-driven activity for product-market fit.
+
+A project can have:
+
+* Thousands of users
+* Large TVL
+* Strong social engagement
+
+and still have weak demand.
+
+When incentives disappear, true demand becomes visible.
+
+Always separate:
+
+* Organic users
+* Incentivized users
+
+---
+
+## Founders Usually Build Too Early
+
+Most founders start with a solution.
+
+The best founders start with a problem.
+
+The question is not:
+
+"Can we build this?"
+
+The question is:
+
+"Should this exist?"
+
+---
+
+## User Interviews Beat Twitter Polls
+
+Social media creates opinions.
+
+User interviews reveal behavior.
+
+Behavior is usually more valuable than opinions.
+
